@@ -1,0 +1,16 @@
+Read ID, organism
+M00827:12:000000000-AEUNW:1:1101:23128:3788, Escherichia coli isolate CNR65D6 genome assembly chromosome: 1
+M00827:12:000000000-AEUNW:1:1101:17868:6469, Staphylococcus aureus strain E1185_IV_ST12 chromosome complete genome
+M00827:12:000000000-AEUNW:1:1101:16172:6679, Staphylococcus aureus strain UNC_SaCF11 chromosome complete genome
+M00827:12:000000000-AEUNW:1:1101:21711:6712, Escherichia coli strain 5-1 plasmid unnamed1 complete sequence
+M00827:12:000000000-AEUNW:1:1101:12773:6933, Staphylococcus aureus strain E1185_IV_ST12 chromosome complete genome
+M00827:12:000000000-AEUNW:1:1101:15296:3158, Escherichia coli isolate CNR65D6 genome assembly chromosome: 1
+M00827:12:000000000-AEUNW:1:1101:13458:4108, Escherichia coli strain XD35 chromosome complete genome
+M00827:12:000000000-AEUNW:1:1101:9043:5028, Escherichia coli strain XD35 chromosome complete genome
+M00827:12:000000000-AEUNW:1:1101:7201:5098, Escherichia coli strain XD35 chromosome complete genome
+M00827:12:000000000-AEUNW:1:1101:18785:5472, Escherichia coli O157:H7 strain M1300706001A chromosome, complete genome 
+M00827:12:000000000-AEUNW:1:1101:22220:3113, Thermus thermophilus strain N-1 chromosome complete genome
+M00827:12:000000000-AEUNW:1:1101:23294:5998, Thermus thermophilus strain N-1 chromosome complete genome
+M00827:12:000000000-AEUNW:1:1101:12169:8149, Thermus thermophilus strain N-1 chromosome complete genome
+M00827:12:000000000-AEUNW:1:1101:7922:8647, Thermus thermophilus strain N-1 chromosome complete genome
+M00827:12:000000000-AEUNW:1:1101:11245:8780, Thermus thermophilus HC11 DNA complete genome
