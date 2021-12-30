@@ -150,8 +150,8 @@ def analyze_seqs(peaks):
         print("%s, %s" % (k, v))
     myfile.close()
 
-find_encoding() # outputs encoding type of given fastq file
-all_percentages, c_g_content = get_c_g_content() 
-print("Number of all reads: %d\n" % len(all_percentages))
-print_chart(c_g_content)
-# analyze_seqs(peaks) # Analyzes sequences: finds main peaks, 5 sequences from each peak, does blast search, writes output to txt file
+find_encoding() # outputs encoding type of given fastq file; 1 task 
+all_percentages, c_g_content = get_c_g_content() # finds C/G content according to seqs; 
+print("Number of all reads: %d\n" % len(all_percentages)) # prints all seqs with appropriate C/G content %
+print_chart(c_g_content) # visualizes seqs with C/G percentage
+# analyze_seqs(c_g_content) # Analyzes sequences: finds main peaks, 5 sequences from each peak, does blast search, writes output to txt file
